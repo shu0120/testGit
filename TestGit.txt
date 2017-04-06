@@ -1,4 +1,4 @@
-hahaha
+嚜瞥ahaha
 
 
 version 2
@@ -8,3 +8,4 @@ version 3 哈哈哈
 
 v4 add 修改加入書籤
 v5 commit 記錄索引的狀態
+v5 pull 取得遠端數據庫的內容
